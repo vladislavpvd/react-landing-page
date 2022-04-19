@@ -10,7 +10,7 @@ function Footer() {
                 <div className="footer-con">
                     <div className="logo-con">
                        <div className="logo-items">
-                        <img src={logo} alt="" />
+                        <img src={logo} alt="logo" />
                             <p>
                                 Copyright @2021 LoremIpsum. <br />
                                 All rights reserved.
@@ -87,10 +87,10 @@ const FooterStyled = styled.footer`
         display: flex;
         justify-content: space-between;
         li{
-            padding: 2rem 0;
+            padding: 1rem 0;
             color: #16194F;
         }
     }
 `;
 
-export default Footer
+export default Footer;

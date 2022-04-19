@@ -42,9 +42,6 @@ function App() {
   );
 }
 
-const MainStyled = styled.main`
-
-
-`;
+const MainStyled = styled.main``;
 
 export default App;

@@ -52,7 +52,6 @@ const GlobalStyle = createGlobalStyle`
         text-align: center;
     }
 
-  
 `;
 
 export default GlobalStyle;
