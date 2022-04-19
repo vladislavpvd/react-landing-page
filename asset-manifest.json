@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/react-landing-page/static/js/main.b995f3bb.chunk.js",
-    "main.js.map": "/react-landing-page/static/js/main.b995f3bb.chunk.js.map",
+    "main.js": "/react-landing-page/static/js/main.6526caea.chunk.js",
+    "main.js.map": "/react-landing-page/static/js/main.6526caea.chunk.js.map",
     "runtime-main.js": "/react-landing-page/static/js/runtime-main.6b276765.js",
     "runtime-main.js.map": "/react-landing-page/static/js/runtime-main.6b276765.js.map",
     "static/js/2.6795e726.chunk.js": "/react-landing-page/static/js/2.6795e726.chunk.js",
@@ -25,7 +25,6 @@
     "static/media/conversation.7d746c46.svg": "/react-landing-page/static/media/conversation.7d746c46.svg",
     "static/media/creditcard.769cef4d.svg": "/react-landing-page/static/media/creditcard.769cef4d.svg",
     "static/media/inactive.900a873f.svg": "/react-landing-page/static/media/inactive.900a873f.svg",
-    "static/media/lines.cfb8e2d3.svg": "/react-landing-page/static/media/lines.cfb8e2d3.svg",
     "static/media/logo.102027f6.svg": "/react-landing-page/static/media/logo.102027f6.svg",
     "static/media/message_blue.3065b5d0.svg": "/react-landing-page/static/media/message_blue.3065b5d0.svg",
     "static/media/message_pink.3b52b420.svg": "/react-landing-page/static/media/message_pink.3b52b420.svg",
@@ -37,6 +36,6 @@
   "entrypoints": [
     "static/js/runtime-main.6b276765.js",
     "static/js/2.6795e726.chunk.js",
-    "static/js/main.b995f3bb.chunk.js"
+    "static/js/main.6526caea.chunk.js"
   ]
 }
